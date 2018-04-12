@@ -15,5 +15,9 @@
     "url": "https://github.com/sherman2zhiwei/fit3140-assignment-3/issues"
   },
   "homepage": "https://github.com/sherman2zhiwei/fit3140-assignment-3#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "bonescript": "^0.6.3",
+    "firebase-admin": "^5.12.0"
+  }
 }
